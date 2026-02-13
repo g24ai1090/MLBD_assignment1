@@ -1,5 +1,5 @@
-Assignment 1
-
+**Assignment 1
+**
 assignment1/
 │
 ├── classes/
@@ -17,47 +17,39 @@ assignment1/
 │
 └── WordCount.jar
 
-Environment Setup
+**Environment Setup**
 
 Activate virtual environment:
-
 source venv/bin/activate
 
 
-Check Spark installation:
-
+**Check Spark installation:**
 spark-submit --version
 
-Run Question 10:
-
+**Run Question 10:**
 spark-submit q10_spark.py
 
 
-Run Question 11:
-
+**Run Question 11:**
 spark-submit q11_spark.py
 
-
+**
 Run Question 12:
-
+**
 spark-submit q12_spark.py
 
-Dataset Location
-
+**Dataset Location
+**
 All book files are stored in:
-
 assignment1/D184MB/
 
 
-The Spark scripts load data using:
-
+**The Spark scripts load data using:**
 D184MB/*.txt
-Platform
 
+**Platform**
 macOS
-
 Python (venv)
-
 Apache Spark 4.x
-
 PySpark
+
