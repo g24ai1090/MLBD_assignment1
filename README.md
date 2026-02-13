@@ -1,5 +1,5 @@
-**Assignment 1
-**
+**Assignment 1**
+
 assignment1/
 │
 ├── classes/
@@ -33,13 +33,10 @@ spark-submit q10_spark.py
 **Run Question 11:**
 spark-submit q11_spark.py
 
-**
-Run Question 12:
-**
+**Run Question 12:**
 spark-submit q12_spark.py
 
-**Dataset Location
-**
+**Dataset Location**
 All book files are stored in:
 assignment1/D184MB/
 
